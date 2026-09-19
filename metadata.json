@@ -1,0 +1,10 @@
+{
+  "name": "Remix EcoScan AI - ระบบจำแนกและแยกขยะด้วยกล้อง AI",
+  "description": "แอปพลิเคชันจำแนกประเภทขยะด้วยกล้องถ่ายรูปและ AI วิเคราะห์วิธีคัดแยก ถังขยะที่ถูกต้อง และคำนวณผลกระทบสิ่งแวดล้อม",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
